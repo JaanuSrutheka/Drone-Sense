@@ -1,0 +1,5 @@
+﻿data/raw/
+*.wav
+*.zip
+*.mp3
+__pycache__/
