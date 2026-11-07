@@ -180,6 +180,6 @@ The project uses:
 
 A machine learning project focused on acoustic feature extraction and audio-based drone classification.
 
-## 👥 Team
+## 👥 Team members
 Jaanu Srutheka
-Swati
+ and Swati
