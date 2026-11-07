@@ -179,3 +179,7 @@ The project uses:
 **Project:** Drone Sense – Intelligent Drone Detection Through Sound
 
 A machine learning project focused on acoustic feature extraction and audio-based drone classification.
+
+## 👥 Team
+Jaanu Srutheka 
+Swati
